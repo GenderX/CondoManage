@@ -29,6 +29,7 @@ public class addHousethingServlet extends HttpServlet {
      */
     public addHousethingServlet() {
         super();
+        //尼玛币
     }
 
 	/**
