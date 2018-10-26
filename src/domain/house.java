@@ -9,6 +9,7 @@ public class house {
     private int ruzhu;
     private float expense;
     private String extra;
+    //nimabi
 	public int getHouseid() {
 		return houseid;
 	}
